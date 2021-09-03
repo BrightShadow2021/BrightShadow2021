@@ -12,7 +12,7 @@ ________________________________________________________________________________
 About me 
 __________________________________________________________________________________________
 
-🏫 I’m currently a Computer Science Grad Student at Dalhousie University.<br>
+🏫 I’m an upcoming Computer Science Grad Student at Dalhousie University.<br>
 🌱 I’m currently working on ohhhhhhhh I forgot.<br>
 💬 Reach out to me on: [LinkedIn](https://www.linkedin.com/in/arti-b-763049125/)
 __________________________________________________________________________________________
